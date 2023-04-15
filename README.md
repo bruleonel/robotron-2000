@@ -1,4 +1,8 @@
-# robotron-2000
+# Robotron 2000
+
+![robotron](https://user-images.githubusercontent.com/104650333/232256486-309d8070-e9d8-4c1f-87dc-50ce289c3458.png)
+
+<a href="https://robotron-2000-662i-i76cugtw1-bruleonel.vercel.app/">Clique aqui para ver o projeto</a>
 
 ## document.getElementById()
 - retorna o elemento e atravéz do id e asism você pode manipulá-lo.
